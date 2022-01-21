@@ -9,5 +9,8 @@
 [<img align="left" alt="benmartinez.netlify.app/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>][website]
 [<img align="left" alt="LinkedIn Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
 
+### Languages:
+[<img align="left" alt="Python" width="26px" src="https://avatars.githubusercontent.com/u/27804?s=200&v=4"/>]
+
 [website]: https://benmartinez.netlify.app/
 [linkedin]: https://www.linkedin.com/in/ben-martinez-b8b052180/
