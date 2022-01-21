@@ -38,10 +38,12 @@
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
 <img align="left" alt="Unity" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"/>
+<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"/>
+<img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/kubernetes/kubernetes.png"/>
 
 <br/>
 
-#### Django, Firebase, Flask, Git, MongoDB, Node.js, React, Unity
+#### Django, Firebase, Flask, Git, MongoDB, Node.js, React, Unity, Docker, Kubernetes
 
 [website]: https://benmartinez.netlify.app/
 [linkedin]: https://www.linkedin.com/in/ben-martinez-b8b052180/
