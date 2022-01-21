@@ -45,5 +45,10 @@
 
 #### Django, Firebase, Flask, Git, MongoDB, Node.js, React, Unity, Docker, Kubernetes
 
+<br/>
+
+### Knowledges:
+
+#### API, Algorithms, Machine Learning, Data Structures, Software Engineering, Web Design
 [website]: https://benmartinez.netlify.app/
 [linkedin]: https://www.linkedin.com/in/ben-martinez-b8b052180/
