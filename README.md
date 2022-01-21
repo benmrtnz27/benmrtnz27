@@ -53,7 +53,7 @@
 
 ---
 
-<img align="left" alt="benmrtnz27's Github Stats" src="https://github-readme-stats.vercel.app/api?username=benmrtnz27&show_icons=true&hide_border=true">
+<img align="left" alt="benmrtnz27's Github Stats" src="https://github-readme-stats.vercel.app/api?username=benmrtnz27&show_icons=true&hide_border=true&count_private=true">
 
 [website]: https://benmartinez.netlify.app/
 [linkedin]: https://www.linkedin.com/in/ben-martinez-b8b052180/
