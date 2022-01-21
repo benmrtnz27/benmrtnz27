@@ -24,7 +24,7 @@
 
 <br/>
 
-# Python, JavaScript, C++, C#, HTML, CSS, SQL, R, Swift
+#### Python, JavaScript, C++, C#, HTML, CSS, SQL, R, Swift
 
 <br/>
 
@@ -40,7 +40,7 @@
 
 <br/>
 
-# Django, Firebase, Flask, Git, MongoDB, Node.js, React, Unity
+#### Django, Firebase, Flask, Git, MongoDB, Node.js, React, Unity
 
 [website]: https://benmartinez.netlify.app/
 [linkedin]: https://www.linkedin.com/in/ben-martinez-b8b052180/
